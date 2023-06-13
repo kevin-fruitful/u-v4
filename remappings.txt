@@ -1,4 +1,4 @@
-@openzeppelin/contracts/=lib/v4-core/node_modules/@openzeppelin/contracts/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
 @prb/test/=lib/prb-test/src/
 ds-test/=lib/forge-std/lib/ds-test/src/
 forge-deploy-proxy/=lib/forge-deploy/examples/basic/lib/forge-deploy-proxy/src/
