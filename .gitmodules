@@ -9,3 +9,6 @@
 [submodule "lib/forge-deploy"]
 	path = lib/forge-deploy
 	url = https://github.com/wighawag/forge-deploy
+[submodule "lib/v4-core"]
+	path = lib/v4-core
+	url = https://github.com/Uniswap/v4-core
