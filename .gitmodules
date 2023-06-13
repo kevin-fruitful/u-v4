@@ -6,3 +6,6 @@
   branch = "release-v0"
   path = "lib/prb-test"
   url = "https://github.com/PaulRBerg/prb-test"
+[submodule "lib/forge-deploy"]
+	path = lib/forge-deploy
+	url = https://github.com/wighawag/forge-deploy
